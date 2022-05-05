@@ -1,0 +1,43 @@
+body {
+  min-width: 400px;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.review {
+  background: #f7f7fd;
+}
+
+.get-access {
+  background: #585989;
+}
+
+footer {
+  background: #070439;
+  color: white;
+}
+
+footer img {
+  -webkit-filter: invert(100%) sepia(14%) saturate(7471%) hue-rotate(287deg) brightness(117%) contrast(115%);
+          filter: invert(100%) sepia(14%) saturate(7471%) hue-rotate(287deg) brightness(117%) contrast(115%);
+}
+
+footer .phone-email img {
+  -webkit-filter: none;
+          filter: none;
+}
+
+footer ul {
+  list-style-type: none;
+}
+
+footer ul a {
+  color: white;
+}
+
+footer .media-icon img {
+  width: 50px;
+}
+/*# sourceMappingURL=main.css.map */
